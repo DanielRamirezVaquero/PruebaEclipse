@@ -7,5 +7,6 @@ public class PruebaGit {
 		
 		String nombre = "Paco";
 		
+		System.out.print(nombre);
 	}
 }
